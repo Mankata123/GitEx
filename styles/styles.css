@@ -21,7 +21,7 @@ a {
 }
 
 header {
-    background-color: #ddd;
+    background-color: rgb(27, 27, 27);
     padding: 16px;
 }
 
@@ -35,7 +35,6 @@ header {
 .main-navigation a {
     margin: 0 12px;
     padding: 12px 22px;
-    background-color: rgb(243, 148, 7);
+    color: rgb(243, 148, 7);
     border-radius: 3px;
-    color: #000;
 }
