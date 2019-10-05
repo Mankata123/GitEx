@@ -10,3 +10,32 @@ body {
 p {
     font-size: 14px;
 }
+
+a {
+    text-decoration: none;
+}
+
+.wrapper {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #ddd;
+    padding: 16px;
+}
+
+.main-navigation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+}
+
+.main-navigation a {
+    margin: 0 12px;
+    padding: 12px 22px;
+    background-color: rgb(243, 148, 7);
+    border-radius: 3px;
+    color: #000;
+}
